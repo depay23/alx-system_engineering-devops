@@ -1,2 +1,8 @@
 #!/bin/bash
-ls -lA ; cd .. ; ls -lA ; cd /boot ; ls -lA
+(
+  ls -lA
+  cd ..
+  ls -lA
+  cd /boot
+  ls -lA
+)
